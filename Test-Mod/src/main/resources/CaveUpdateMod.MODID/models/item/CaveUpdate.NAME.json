@@ -1,0 +1,5 @@
+{
+      "variants": {
+        "normal": { "model": "<MODID>:<BLOCK_UNLOCALIZED_NAME>_model" }
+      }
+  }
